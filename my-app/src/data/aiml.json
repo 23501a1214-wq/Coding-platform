@@ -1,0 +1,161 @@
+{
+  "beginner": [
+    {
+      "question": "What does ML stand for in AI/ML?",
+      "options": ["Machine Learning", "Memory Logic", "Model Layer", "Meta Language"],
+      "answer": "Machine Learning"
+    },
+    {
+      "question": "Which of these are supervised learning algorithms?",
+      "options": ["Linear Regression", "K-Means", "Decision Trees", "Naive Bayes"],
+      "answers": ["Linear Regression", "Decision Trees", "Naive Bayes"]
+    },
+    {
+      "question": "Which of these is a clustering algorithm?",
+      "options": ["K-Means", "Logistic Regression", "Support Vector Machine", "Linear Regression"],
+      "answer": "K-Means"
+    },
+    {
+      "question": "Which of these are types of neural networks?",
+      "options": ["CNN", "RNN", "GAN", "Decision Tree"],
+      "answers": ["CNN", "RNN", "GAN"]
+    },
+    {
+      "question": "What does AI stand for?",
+      "options": ["Artificial Intelligence", "Automated Input", "Advanced Integration", "Applied Innovation"],
+      "answer": "Artificial Intelligence"
+    },
+    {
+      "question": "Which of these are common applications of AI?",
+      "options": ["Image recognition", "Spam filtering", "Weather forecasting", "Cooking recipes"],
+      "answers": ["Image recognition", "Spam filtering", "Weather forecasting"]
+    },
+    {
+      "question": "Which of these is an unsupervised learning task?",
+      "options": ["Clustering", "Regression", "Classification", "Prediction"],
+      "answer": "Clustering"
+    },
+    {
+      "question": "Which of these are evaluation metrics for classification?",
+      "options": ["Accuracy", "Precision", "Recall", "Mean Squared Error"],
+      "answers": ["Accuracy", "Precision", "Recall"]
+    },
+    {
+      "question": "Which of these are reinforcement learning concepts?",
+      "options": ["Agent", "Environment", "Reward", "Compiler"],
+      "answers": ["Agent", "Environment", "Reward"]
+    },
+    {
+      "question": "Which of these is a common activation function?",
+      "options": ["ReLU", "Sigmoid", "Bubble Sort", "Tanh"],
+      "answers": ["ReLU", "Sigmoid", "Tanh"]
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Which optimization algorithms are used to train neural networks?",
+      "options": ["SGD", "Adam", "RMSProp", "QuickSort"],
+      "answers": ["SGD", "Adam", "RMSProp"]
+    },
+    {
+      "question": "What does overfitting mean in ML?",
+      "options": [
+        "Model performs well on training but poorly on unseen data",
+        "Model ignores training data",
+        "Model has too few parameters",
+        "Model performs equally well everywhere"
+      ],
+      "answer": "Model performs well on training but poorly on unseen data"
+    },
+    {
+      "question": "Which are ensemble learning methods?",
+      "options": ["Random Forest", "Bagging", "Boosting", "K-Means"],
+      "answers": ["Random Forest", "Bagging", "Boosting"]
+    },
+    {
+      "question": "Which techniques prevent overfitting?",
+      "options": ["Dropout", "Regularization", "Data Augmentation", "Sorting algorithms"],
+      "answers": ["Dropout", "Regularization", "Data Augmentation"]
+    },
+    {
+      "question": "Which are reinforcement learning approaches?",
+      "options": ["Value-based", "Policy-based", "Actor-Critic", "Linear Regression"],
+      "answers": ["Value-based", "Policy-based", "Actor-Critic"]
+    },
+    {
+      "question": "Which are loss functions in ML?",
+      "options": ["Cross-Entropy", "MSE", "Hinge Loss", "Bubble Sort"],
+      "answers": ["Cross-Entropy", "MSE", "Hinge Loss"]
+    },
+    {
+      "question": "Which are activation functions used in deep learning?",
+      "options": ["ReLU", "Sigmoid", "Tanh", "Softmax"],
+      "answers": ["ReLU", "Sigmoid", "Tanh", "Softmax"]
+    },
+    {
+      "question": "Which are generative models?",
+      "options": ["GANs", "VAEs", "Decision Trees", "Naive Bayes"],
+      "answers": ["GANs", "VAEs"]
+    },
+    {
+      "question": "Which are challenges in AI ethics?",
+      "options": ["Bias in datasets", "Privacy concerns", "Transparency", "Sorting algorithms"],
+      "answers": ["Bias in datasets", "Privacy concerns", "Transparency"]
+    },
+    {
+      "question": "Which are common uses of NLP?",
+      "options": ["Sentiment analysis", "Machine translation", "Speech recognition", "Sorting numbers"],
+      "answers": ["Sentiment analysis", "Machine translation", "Speech recognition"]
+    },
+    {
+      "question": "Which are secure hashing algorithms?",
+      "options": ["MD5", "SHA-1", "SHA-256", "SHA-512"],
+      "answers": ["SHA-256", "SHA-512"]
+    },
+    {
+      "question": "Which are common dimensionality reduction techniques?",
+      "options": ["PCA", "t-SNE", "LDA", "Bubble Sort"],
+      "answers": ["PCA", "t-SNE", "LDA"]
+    },
+    {
+      "question": "Which are gradient boosting frameworks?",
+      "options": ["XGBoost", "LightGBM", "CatBoost", "Photoshop"],
+      "answers": ["XGBoost", "LightGBM", "CatBoost"]
+    },
+    {
+      "question": "Which are common kernel functions in SVM?",
+      "options": ["Linear", "Polynomial", "RBF", "Sigmoid"],
+      "answers": ["Linear", "Polynomial", "RBF", "Sigmoid"]
+    },
+    {
+      "question": "Which are evaluation metrics for regression?",
+      "options": ["MSE", "RMSE", "MAE", "Accuracy"],
+      "answers": ["MSE", "RMSE", "MAE"]
+    },
+    {
+      "question": "Which are common challenges in training deep networks?",
+      "options": ["Vanishing gradients", "Exploding gradients", "Overfitting", "Sorting arrays"],
+      "answers": ["Vanishing gradients", "Exploding gradients", "Overfitting"]
+    },
+    {
+      "question": "Which are examples of transfer learning models?",
+      "options": ["ResNet", "BERT", "VGG", "Excel"],
+      "answers": ["ResNet", "BERT", "VGG"]
+    },
+    {
+      "question": "Which are common clustering algorithms?",
+      "options": ["K-Means", "DBSCAN", "Hierarchical Clustering", "Logistic Regression"],
+      "answers": ["K-Means", "DBSCAN", "Hierarchical Clustering"]
+    },
+    {
+      "question": "Which are common uses of computer vision?",
+      "options": ["Object detection", "Image segmentation", "Face recognition", "Sorting files"],
+      "answers": ["Object detection", "Image segmentation", "Face recognition"]
+    },
+    {
+      "question": "Which are common challenges in reinforcement learning?",
+      "options": ["Sparse rewards", "Exploration vs exploitation", "Sample inefficiency", "Sorting algorithms"],
+      "answers": ["Sparse rewards", "Exploration vs exploitation", "Sample inefficiency"]
+    }
+  ]
+}

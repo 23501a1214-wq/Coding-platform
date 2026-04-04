@@ -1,0 +1,176 @@
+{
+  "beginner": [
+    {
+      "question": "Which of the following is considered a strong password?",
+      "options": ["Password123", "qwerty", "MyDogName", "T!m3$@2026"],
+      "answer": "T!m3$@2026"
+    },
+    {
+      "question": "What does HTTPS stand for?",
+      "options": [
+        "HyperText Transfer Protocol Secure",
+        "High Transfer Text Protocol Standard",
+        "Hyperlink Transfer Protocol Service",
+        "HyperText Transmission Security"
+      ],
+      "answer": "HyperText Transfer Protocol Secure"
+    },
+    {
+      "question": "Which of these are common types of malware?",
+      "options": ["Firewall", "Antivirus", "Trojan Horse", "Worm", "Ransomware"],
+      "answers": ["Trojan Horse", "Worm", "Ransomware"]
+    },
+    {
+      "question": "Phishing attacks usually happen through?",
+      "options": ["Emails", "Printers", "USB drives", "Wi-Fi routers"],
+      "answer": "Emails"
+    },
+    {
+      "question": "Which of the following are used to protect a network?",
+      "options": ["Firewall", "Spreadsheet", "Compiler", "Antivirus"],
+      "answers": ["Firewall", "Antivirus"]
+    },
+    {
+      "question": "What is the main purpose of antivirus software?",
+      "options": ["To block ads", "To detect and remove malware", "To speed up the computer", "To manage files"],
+      "answer": "To detect and remove malware"
+    },
+    {
+      "question": "Which of these are secure ways to connect remotely?",
+      "options": ["Telnet", "FTP", "SSH", "HTTPS"],
+      "answers": ["SSH", "HTTPS"]
+    },
+    {
+      "question": "What does the 'C' in CIA triad stand for?",
+      "options": ["Control", "Confidentiality", "Compliance", "Connection"],
+      "answer": "Confidentiality"
+    },
+    {
+      "question": "Which of these is an example of two-factor authentication?",
+      "options": ["Password only", "PIN only", "Password + OTP", "Username only"],
+      "answer": "Password + OTP"
+    },
+    {
+      "question": "Which of these are common signs of a phishing website?",
+      "options": ["Spelling mistakes in URL", "Official domain name", "HTTPS enabled", "Poor grammar in content"],
+      "answers": ["Spelling mistakes in URL", "Poor grammar in content"]
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Which tool is commonly used for network packet analysis?",
+      "options": ["Wireshark", "Photoshop", "Excel", "Notepad"],
+      "answer": "Wireshark"
+    },
+    {
+      "question": "What is SQL Injection primarily targeting?",
+      "options": ["Database queries", "Network traffic", "File systems", "Operating system kernel"],
+      "answer": "Database queries"
+    },
+    {
+      "question": "Which hashing algorithms are considered outdated and insecure?",
+      "options": ["SHA-256", "MD5", "SHA-1", "bcrypt"],
+      "answers": ["MD5", "SHA-1"]
+    },
+    {
+      "question": "In penetration testing, what does 'reconnaissance' mean?",
+      "options": ["Exploiting vulnerabilities", "Gathering information", "Reporting findings", "Installing malware"],
+      "answer": "Gathering information"
+    },
+    {
+      "question": "Which protocols are used for secure web communication?",
+      "options": ["HTTP", "FTP", "HTTPS", "SSH"],
+      "answers": ["HTTPS", "SSH"]
+    },
+    {
+      "question": "What is the main purpose of a VPN?",
+      "options": ["To block ads", "To encrypt internet traffic", "To increase bandwidth", "To manage passwords"],
+      "answer": "To encrypt internet traffic"
+    },
+    {
+      "question": "Which of these are brute-force attack techniques?",
+      "options": ["Trying all possible passwords", "Sending fake emails", "Installing malware", "Dictionary attacks"],
+      "answers": ["Trying all possible passwords", "Dictionary attacks"]
+    },
+    {
+      "question": "What does XSS stand for?",
+      "options": ["Cross-Site Scripting", "Extended Secure Session", "XML Secure Standard", "Cross Security System"],
+      "answer": "Cross-Site Scripting"
+    },
+    {
+      "question": "Which ports are commonly used for secure communication?",
+      "options": ["21", "22", "80", "443"],
+      "answers": ["22", "443"]
+    },
+    {
+      "question": "Which of these are symmetric encryption algorithms?",
+      "options": ["RSA", "AES", "ECC", "DES"],
+      "answers": ["AES", "DES"]
+    },
+    {
+      "question": "What is the purpose of a honeypot in cybersecurity?",
+      "options": [
+        "To attract attackers and study their behavior",
+        "To store passwords",
+        "To block malware",
+        "To encrypt traffic"
+      ],
+      "answer": "To attract attackers and study their behavior"
+    },
+    {
+      "question": "Which Linux commands can be used to check open ports?",
+      "options": ["ls", "netstat", "ss", "chmod"],
+      "answers": ["netstat", "ss"]
+    },
+    {
+      "question": "Which of these is NOT a common firewall type?",
+      "options": ["Packet-filtering", "Stateful inspection", "Proxy firewall", "Spreadsheet firewall"],
+      "answer": "Spreadsheet firewall"
+    },
+    {
+      "question": "What is the main risk of using public Wi-Fi without protection?",
+      "options": ["Slow internet", "Data interception", "Battery drain", "File corruption"],
+      "answer": "Data interception"
+    },
+    {
+      "question": "Which of these are common password cracking tools?",
+      "options": ["John the Ripper", "Hashcat", "Photoshop", "Excel"],
+      "answers": ["John the Ripper", "Hashcat"]
+    },
+    {
+      "question": "What does 'zero-day vulnerability' mean?",
+      "options": [
+        "A bug discovered and patched immediately",
+        "A vulnerability exploited before a fix is available",
+        "A virus lasting 24 hours",
+        "A system crash on day zero"
+      ],
+      "answer": "A vulnerability exploited before a fix is available"
+    },
+    {
+      "question": "Which of these are secure hashing algorithms?",
+      "options": ["MD5", "SHA-1", "SHA-256", "SHA-512"],
+      "answers": ["SHA-256", "SHA-512"]
+    },
+    {
+      "question": "Which tools are used for password recovery and cracking?",
+      "options": ["Hashcat", "John the Ripper", "Wireshark", "Nmap"],
+      "answers": ["Hashcat", "John the Ripper"]
+    },
+    {
+      "question": "Which of these are common reconnaissance tools?",
+      "options": ["Nmap", "Word", "Excel", "Paint"],
+      "answer": "Nmap"
+    },
+    {
+      "question": "Which of these are principles of least privilege?",
+      "options": [
+        "Users get only the access they need",
+        "Users get admin rights by default",
+        "All users share one password",
+        "No restrictions on access"
+      ],
+      "answer": "Users get only the access they need"
+    }
+  ]
+}

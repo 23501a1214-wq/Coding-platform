@@ -1,0 +1,156 @@
+{
+  "beginner": [
+    {
+      "question": "Which of these are linear data structures?",
+      "options": ["Array", "Linked List", "Stack", "Graph"],
+      "answers": ["Array", "Linked List", "Stack"]
+    },
+    {
+      "question": "Which data structure uses FIFO order?",
+      "options": ["Stack", "Queue", "Tree", "Graph"],
+      "answer": "Queue"
+    },
+    {
+      "question": "Which of these are non-linear data structures?",
+      "options": ["Tree", "Graph", "Array", "Stack"],
+      "answers": ["Tree", "Graph"]
+    },
+    {
+      "question": "Which operation removes the top element of a stack?",
+      "options": ["push", "pop", "peek", "insert"],
+      "answer": "pop"
+    },
+    {
+      "question": "Which of these are applications of stacks?",
+      "options": ["Expression evaluation", "Undo operations", "Breadth-first search", "Function calls"],
+      "answers": ["Expression evaluation", "Undo operations", "Function calls"]
+    },
+    {
+      "question": "Which traversal methods are used in binary trees?",
+      "options": ["Inorder", "Preorder", "Postorder", "Level order"],
+      "answers": ["Inorder", "Preorder", "Postorder", "Level order"]
+    },
+    {
+      "question": "Which of these are examples of dynamic data structures?",
+      "options": ["Linked List", "Stack", "Queue", "Array"],
+      "answers": ["Linked List", "Stack", "Queue"]
+    },
+    {
+      "question": "Which of these is the time complexity of accessing an element in an array?",
+      "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+      "answer": "O(1)"
+    },
+    {
+      "question": "Which of these are types of linked lists?",
+      "options": ["Singly Linked List", "Doubly Linked List", "Circular Linked List", "Binary Linked List"],
+      "answers": ["Singly Linked List", "Doubly Linked List", "Circular Linked List"]
+    },
+    {
+      "question": "Which of these are hierarchical data structures?",
+      "options": ["Tree", "Graph", "Array", "Stack"],
+      "answers": ["Tree", "Graph"]
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Which of these are balanced binary search trees?",
+      "options": ["AVL Tree", "Red-Black Tree", "B-Tree", "Heap"],
+      "answers": ["AVL Tree", "Red-Black Tree", "B-Tree"]
+    },
+    {
+      "question": "Which of these are graph traversal algorithms?",
+      "options": ["DFS", "BFS", "Dijkstra", "Kruskal"],
+      "answers": ["DFS", "BFS"]
+    },
+    {
+      "question": "Which of these are minimum spanning tree algorithms?",
+      "options": ["Prim's", "Kruskal's", "Dijkstra's", "Bellman-Ford"],
+      "answers": ["Prim's", "Kruskal's"]
+    },
+    {
+      "question": "Which of these are shortest path algorithms?",
+      "options": ["Dijkstra", "Bellman-Ford", "Floyd-Warshall", "Prim's"],
+      "answers": ["Dijkstra", "Bellman-Ford", "Floyd-Warshall"]
+    },
+    {
+      "question": "Which of these are hashing techniques?",
+      "options": ["Separate Chaining", "Open Addressing", "Linear Probing", "Binary Search"],
+      "answers": ["Separate Chaining", "Open Addressing", "Linear Probing"]
+    },
+    {
+      "question": "Which of these are heap operations?",
+      "options": ["Insert", "Delete", "Heapify", "Sort"],
+      "answers": ["Insert", "Delete", "Heapify"]
+    },
+    {
+      "question": "Which of these are applications of graphs?",
+      "options": ["Social networks", "Routing algorithms", "Dependency resolution", "Sorting arrays"],
+      "answers": ["Social networks", "Routing algorithms", "Dependency resolution"]
+    },
+    {
+      "question": "Which of these are types of binary tree traversals?",
+      "options": ["Inorder", "Preorder", "Postorder", "Level order"],
+      "answers": ["Inorder", "Preorder", "Postorder", "Level order"]
+    },
+    {
+      "question": "Which of these are properties of a binary search tree?",
+      "options": ["Left child < parent", "Right child > parent", "Duplicates allowed", "Balanced always"],
+      "answers": ["Left child < parent", "Right child > parent"]
+    },
+    {
+      "question": "Which of these are applications of priority queues?",
+      "options": ["Job scheduling", "Dijkstra's algorithm", "Event simulation", "Sorting arrays"],
+      "answers": ["Job scheduling", "Dijkstra's algorithm", "Event simulation"]
+    },
+    {
+      "question": "Which of these are types of hash functions?",
+      "options": ["Division method", "Multiplication method", "Mid-square method", "BubbleSort"],
+      "answers": ["Division method", "Multiplication method", "Mid-square method"]
+    },
+    {
+      "question": "Which of these are properties of heaps?",
+      "options": ["Complete binary tree", "Heap order property", "Balanced always", "Duplicates not allowed"],
+      "answers": ["Complete binary tree", "Heap order property"]
+    },
+    {
+      "question": "Which of these are applications of dynamic programming?",
+      "options": ["Fibonacci sequence", "Knapsack problem", "Matrix chain multiplication", "DFS"],
+      "answers": ["Fibonacci sequence", "Knapsack problem", "Matrix chain multiplication"]
+    },
+    {
+      "question": "Which of these are types of graphs?",
+      "options": ["Directed", "Undirected", "Weighted", "Unweighted"],
+      "answers": ["Directed", "Undirected", "Weighted", "Unweighted"]
+    },
+    {
+      "question": "Which of these are properties of AVL trees?",
+      "options": ["Height-balanced", "Self-balancing", "O(log n) operations", "Duplicates allowed"],
+      "answers": ["Height-balanced", "Self-balancing", "O(log n) operations"]
+    },
+    {
+      "question": "Which of these are applications of stacks?",
+      "options": ["Expression evaluation", "Function calls", "Undo operations", "Sorting arrays"],
+      "answers": ["Expression evaluation", "Function calls", "Undo operations"]
+    },
+    {
+      "question": "Which of these are applications of queues?",
+      "options": ["Job scheduling", "Breadth-first search", "Resource management", "Sorting arrays"],
+      "answers": ["Job scheduling", "Breadth-first search", "Resource management"]
+    },
+    {
+      "question": "Which of these are applications of linked lists?",
+      "options": ["Dynamic memory allocation", "Polynomial representation", "Implementing stacks and queues", "Sorting arrays"],
+      "answers": ["Dynamic memory allocation", "Polynomial representation", "Implementing stacks and queues"]
+    },
+    {
+      "question": "Which of these are applications of trees?",
+      "options": ["Hierarchical data representation", "Expression parsing", "File systems", "Sorting arrays"],
+      "answers": ["Hierarchical data representation", "Expression parsing", "File systems"]
+    },
+    {
+      "question": "Which of these are applications of hash tables?",
+      "options": ["Database indexing", "Caching", "Symbol tables", "Sorting arrays"],
+      "answers": ["Database indexing", "Caching", "Symbol tables"]
+    }
+  ]
+}

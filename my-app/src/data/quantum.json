@@ -1,0 +1,156 @@
+{
+  "beginner": [
+    {
+      "question": "Which of these are fundamental quantum particles?",
+      "options": ["Electron", "Photon", "Proton", "Banana"],
+      "answers": ["Electron", "Photon", "Proton"]
+    },
+    {
+      "question": "What does 'Qubit' stand for?",
+      "options": ["Quantum Bit", "Quick Bit", "Quality Bit", "Question Bit"],
+      "answer": "Quantum Bit"
+    },
+    {
+      "question": "Which of these are properties of qubits?",
+      "options": ["Superposition", "Entanglement", "Classical determinism", "Wave-particle duality"],
+      "answers": ["Superposition", "Entanglement", "Wave-particle duality"]
+    },
+    {
+      "question": "Which of these are quantum gates?",
+      "options": ["Hadamard", "Pauli-X", "CNOT", "BubbleSort"],
+      "answers": ["Hadamard", "Pauli-X", "CNOT"]
+    },
+    {
+      "question": "Which of these is the classical counterpart of a qubit?",
+      "options": ["Bit", "Byte", "Register", "Word"],
+      "answer": "Bit"
+    },
+    {
+      "question": "Which of these are examples of quantum phenomena?",
+      "options": ["Superposition", "Entanglement", "Decoherence", "Sorting arrays"],
+      "answers": ["Superposition", "Entanglement", "Decoherence"]
+    },
+    {
+      "question": "Which of these are measurement outcomes of a qubit?",
+      "options": ["0", "1", "Both simultaneously", "Banana"],
+      "answers": ["0", "1"]
+    },
+    {
+      "question": "Which of these are common quantum computing models?",
+      "options": ["Gate-based", "Adiabatic", "Topological", "Spreadsheet"],
+      "answers": ["Gate-based", "Adiabatic", "Topological"]
+    },
+    {
+      "question": "Which of these are potential applications of quantum computing?",
+      "options": ["Cryptography", "Optimization", "Drug discovery", "Cooking recipes"],
+      "answers": ["Cryptography", "Optimization", "Drug discovery"]
+    },
+    {
+      "question": "Which of these are classical computing limitations addressed by quantum computing?",
+      "options": ["Factorization", "Simulation of quantum systems", "Optimization problems", "Sorting arrays"],
+      "answers": ["Factorization", "Simulation of quantum systems", "Optimization problems"]
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Which of these are quantum error correction codes?",
+      "options": ["Shor code", "Steane code", "Surface code", "BubbleSort"],
+      "answers": ["Shor code", "Steane code", "Surface code"]
+    },
+    {
+      "question": "Which of these are quantum algorithms?",
+      "options": ["Shor's algorithm", "Grover's algorithm", "Dijkstra's algorithm", "Bellman-Ford"],
+      "answers": ["Shor's algorithm", "Grover's algorithm"]
+    },
+    {
+      "question": "Which of these are properties of entangled states?",
+      "options": ["Non-local correlations", "Measurement dependence", "Classical independence", "Wave collapse"],
+      "answers": ["Non-local correlations", "Measurement dependence"]
+    },
+    {
+      "question": "Which of these are universal quantum gates?",
+      "options": ["Hadamard", "CNOT", "T-gate", "BubbleSort"],
+      "answers": ["Hadamard", "CNOT", "T-gate"]
+    },
+    {
+      "question": "Which of these are challenges in quantum computing?",
+      "options": ["Decoherence", "Noise", "Error rates", "Sorting arrays"],
+      "answers": ["Decoherence", "Noise", "Error rates"]
+    },
+    {
+      "question": "Which of these are quantum complexity classes?",
+      "options": ["BQP", "QMA", "NP", "P"],
+      "answers": ["BQP", "QMA"]
+    },
+    {
+      "question": "Which of these are quantum simulation applications?",
+      "options": ["Molecular modeling", "Material science", "Drug discovery", "Sorting arrays"],
+      "answers": ["Molecular modeling", "Material science", "Drug discovery"]
+    },
+    {
+      "question": "Which of these are hybrid quantum-classical algorithms?",
+      "options": ["Variational Quantum Eigensolver (VQE)", "Quantum Approximate Optimization Algorithm (QAOA)", "BubbleSort", "DFS"],
+      "answers": ["Variational Quantum Eigensolver (VQE)", "Quantum Approximate Optimization Algorithm (QAOA)"]
+    },
+    {
+      "question": "Which of these are quantum hardware technologies?",
+      "options": ["Superconducting qubits", "Trapped ions", "Photonic qubits", "Banana circuits"],
+      "answers": ["Superconducting qubits", "Trapped ions", "Photonic qubits"]
+    },
+    {
+      "question": "Which of these are quantum communication protocols?",
+      "options": ["Quantum key distribution", "Quantum teleportation", "Classical routing", "BubbleSort"],
+      "answers": ["Quantum key distribution", "Quantum teleportation"]
+    },
+    {
+      "question": "Which of these are quantum machine learning approaches?",
+      "options": ["Quantum SVM", "Quantum PCA", "Quantum Neural Networks", "BubbleSort"],
+      "answers": ["Quantum SVM", "Quantum PCA", "Quantum Neural Networks"]
+    },
+    {
+      "question": "Which of these are examples of decoherence sources?",
+      "options": ["Thermal noise", "Electromagnetic interference", "Environmental coupling", "Sorting arrays"],
+      "answers": ["Thermal noise", "Electromagnetic interference", "Environmental coupling"]
+    },
+    {
+      "question": "Which of these are examples of quantum speedup problems?",
+      "options": ["Integer factorization", "Unstructured search", "Simulation of quantum systems", "Sorting arrays"],
+      "answers": ["Integer factorization", "Unstructured search", "Simulation of quantum systems"]
+    },
+    {
+      "question": "Which of these are examples of quantum hardware challenges?",
+      "options": ["Scalability", "Error correction", "Qubit coherence time", "Sorting arrays"],
+      "answers": ["Scalability", "Error correction", "Qubit coherence time"]
+    },
+    {
+      "question": "Which of these are examples of quantum measurement postulates?",
+      "options": ["Collapse of wavefunction", "Probabilistic outcomes", "Unitary evolution", "Sorting arrays"],
+      "answers": ["Collapse of wavefunction", "Probabilistic outcomes"]
+    },
+    {
+      "question": "Which of these are examples of quantum cryptography applications?",
+      "options": ["Quantum key distribution", "Quantum random number generation", "Quantum secure communication", "Sorting arrays"],
+      "answers": ["Quantum key distribution", "Quantum random number generation", "Quantum secure communication"]
+    },
+    {
+      "question": "Which of these are examples of quantum annealing applications?",
+      "options": ["Optimization problems", "Machine learning", "Scheduling", "Sorting arrays"],
+      "answers": ["Optimization problems", "Machine learning", "Scheduling"]
+    },
+    {
+      "question": "Which of these are examples of quantum programming languages?",
+      "options": ["Q#", "Quipper", "Cirq", "BananaLang"],
+      "answers": ["Q#", "Quipper", "Cirq"]
+    },
+    {
+      "question": "Which of these are examples of quantum hardware vendors?",
+      "options": ["IBM", "Google", "Rigetti", "BananaCorp"],
+      "answers": ["IBM", "Google", "Rigetti"]
+    },
+    {
+      "question": "Which of these are examples of quantum computing limitations?",
+      "options": ["Error correction overhead", "Decoherence", "Scalability issues", "Sorting arrays"],
+      "answers": ["Error correction overhead", "Decoherence", "Scalability issues"]
+    }
+  ]
+}
