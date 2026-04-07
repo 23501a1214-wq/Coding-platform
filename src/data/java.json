@@ -1,0 +1,156 @@
+{
+  "beginner": [
+    {
+      "question": "Which of these are valid Java primitive data types?",
+      "options": ["int", "float", "String", "boolean"],
+      "answers": ["int", "float", "boolean"]
+    },
+    {
+      "question": "Which keyword is used to define a class in Java?",
+      "options": ["class", "object", "new", "define"],
+      "answer": "class"
+    },
+    {
+      "question": "Which of these are valid Java access modifiers?",
+      "options": ["public", "private", "protected", "internal"],
+      "answers": ["public", "private", "protected"]
+    },
+    {
+      "question": "Which symbol is used to terminate a statement in Java?",
+      "options": [";", ":", ".", ","],
+      "answer": ";"
+    },
+    {
+      "question": "Which of these are valid loop constructs in Java?",
+      "options": ["for", "while", "do-while", "repeat-until"],
+      "answers": ["for", "while", "do-while"]
+    },
+    {
+      "question": "Which keyword is used to inherit a class in Java?",
+      "options": ["extends", "implements", "inherits", "super"],
+      "answer": "extends"
+    },
+    {
+      "question": "Which of these are valid Java logical operators?",
+      "options": ["&&", "||", "!", "++"],
+      "answers": ["&&", "||", "!"]
+    },
+    {
+      "question": "Which of these is the entry point of a Java program?",
+      "options": ["main method", "start method", "init method", "run method"],
+      "answer": "main method"
+    },
+    {
+      "question": "Which of these are valid Java collections?",
+      "options": ["ArrayList", "HashMap", "HashSet", "LinkedList"],
+      "answers": ["ArrayList", "HashMap", "HashSet", "LinkedList"]
+    },
+    {
+      "question": "Which keyword is used to create an object in Java?",
+      "options": ["new", "create", "object", "instance"],
+      "answer": "new"
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Which of these are features of Object-Oriented Programming in Java?",
+      "options": ["Encapsulation", "Inheritance", "Polymorphism", "Compilation"],
+      "answers": ["Encapsulation", "Inheritance", "Polymorphism"]
+    },
+    {
+      "question": "Which of these are valid Java interfaces from the Collections Framework?",
+      "options": ["List", "Set", "Map", "Queue"],
+      "answers": ["List", "Set", "Map", "Queue"]
+    },
+    {
+      "question": "Which of these are valid Java exception handling keywords?",
+      "options": ["try", "catch", "finally", "throw"],
+      "answers": ["try", "catch", "finally", "throw"]
+    },
+    {
+      "question": "Which of these are valid Java annotations?",
+      "options": ["@Override", "@Deprecated", "@SuppressWarnings", "@Banana"],
+      "answers": ["@Override", "@Deprecated", "@SuppressWarnings"]
+    },
+    {
+      "question": "Which of these are valid Java generics usage?",
+      "options": ["List<String>", "Map<Integer, String>", "Set<Double>", "Array<int>"],
+      "answers": ["List<String>", "Map<Integer, String>", "Set<Double>"]
+    },
+    {
+      "question": "Which of these are valid Java keywords for concurrency?",
+      "options": ["synchronized", "volatile", "transient", "threadsafe"],
+      "answers": ["synchronized", "volatile"]
+    },
+    {
+      "question": "Which of these are valid Java streams operations?",
+      "options": ["map", "filter", "reduce", "collect"],
+      "answers": ["map", "filter", "reduce", "collect"]
+    },
+    {
+      "question": "Which of these are valid Java functional interfaces?",
+      "options": ["Runnable", "Callable", "Supplier", "Consumer"],
+      "answers": ["Runnable", "Callable", "Supplier", "Consumer"]
+    },
+    {
+      "question": "Which of these are valid Java 8 features?",
+      "options": ["Lambda expressions", "Streams API", "Default methods", "Goto statement"],
+      "answers": ["Lambda expressions", "Streams API", "Default methods"]
+    },
+    {
+      "question": "Which of these are valid Java 9 features?",
+      "options": ["Modules", "JShell", "Reactive Streams", "Pointers"],
+      "answers": ["Modules", "JShell", "Reactive Streams"]
+    },
+    {
+      "question": "Which of these are valid Java 11 features?",
+      "options": ["var in lambda parameters", "HTTP Client API", "String methods", "Pointers"],
+      "answers": ["var in lambda parameters", "HTTP Client API", "String methods"]
+    },
+    {
+      "question": "Which of these are valid Java 17 features?",
+      "options": ["Sealed classes", "Pattern matching for switch", "Records", "Pointers"],
+      "answers": ["Sealed classes", "Pattern matching for switch", "Records"]
+    },
+    {
+      "question": "Which of these are valid Java memory management mechanisms?",
+      "options": ["Garbage Collection", "Reference Counting", "Manual free()", "Finalization"],
+      "answers": ["Garbage Collection", "Finalization"]
+    },
+    {
+      "question": "Which of these are valid Java design patterns?",
+      "options": ["Singleton", "Factory", "Observer", "BubbleSort"],
+      "answers": ["Singleton", "Factory", "Observer"]
+    },
+    {
+      "question": "Which of these are valid Java keywords?",
+      "options": ["abstract", "final", "static", "banana"],
+      "answers": ["abstract", "final", "static"]
+    },
+    {
+      "question": "Which of these are valid Java file handling classes?",
+      "options": ["FileReader", "BufferedReader", "FileWriter", "FileBanana"],
+      "answers": ["FileReader", "BufferedReader", "FileWriter"]
+    },
+    {
+      "question": "Which of these are valid Java concurrency utilities?",
+      "options": ["ExecutorService", "Future", "CountDownLatch", "BananaLatch"],
+      "answers": ["ExecutorService", "Future", "CountDownLatch"]
+    },
+    {
+      "question": "Which of these are valid Java polymorphism types?",
+      "options": ["Compile-time", "Run-time", "Static", "Dynamic"],
+      "answers": ["Compile-time", "Run-time"]
+    },
+    {
+      "question": "Which of these are valid Java preprocessor directives?",
+      "options": ["import", "package", "#define", "#include"],
+      "answers": ["import", "package"]
+    },
+    {
+      "question": "Which of these are valid Java serialization classes?",
+      "options": ["ObjectOutputStream", "ObjectInputStream", "Serializable", "BananaStream"],
+      "answers": ["ObjectOutputStream", "ObjectInputStream", "Serializable"]
+    }
+  ]
+}

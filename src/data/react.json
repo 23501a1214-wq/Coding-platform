@@ -1,0 +1,156 @@
+{
+  "beginner": [
+    {
+      "question": "Which of these are valid React features?",
+      "options": ["Components", "JSX", "Virtual DOM", "Pointers"],
+      "answers": ["Components", "JSX", "Virtual DOM"]
+    },
+    {
+      "question": "Which method is used to render React elements into the DOM?",
+      "options": ["ReactDOM.render()", "render()", "mount()", "display()"],
+      "answer": "ReactDOM.render()"
+    },
+    {
+      "question": "Which of these are React hooks?",
+      "options": ["useState", "useEffect", "useContext", "useBanana"],
+      "answers": ["useState", "useEffect", "useContext"]
+    },
+    {
+      "question": "Which of these are valid React component types?",
+      "options": ["Functional", "Class", "Abstract", "Static"],
+      "answers": ["Functional", "Class"]
+    },
+    {
+      "question": "Which of these are valid ways to style React components?",
+      "options": ["CSS files", "Inline styles", "CSS Modules", "Pointers"],
+      "answers": ["CSS files", "Inline styles", "CSS Modules"]
+    },
+    {
+      "question": "Which of these are valid React lifecycle methods?",
+      "options": ["componentDidMount", "componentDidUpdate", "componentWillUnmount", "componentBanana"],
+      "answers": ["componentDidMount", "componentDidUpdate", "componentWillUnmount"]
+    },
+    {
+      "question": "Which of these are valid React props usage?",
+      "options": ["Passing data to child components", "Configuring components", "Changing parent state directly", "Customizing behavior"],
+      "answers": ["Passing data to child components", "Configuring components", "Customizing behavior"]
+    },
+    {
+      "question": "Which of these are valid React event handlers?",
+      "options": ["onClick", "onChange", "onSubmit", "onBanana"],
+      "answers": ["onClick", "onChange", "onSubmit"]
+    },
+    {
+      "question": "Which of these are valid React state management options?",
+      "options": ["useState", "Redux", "Context API", "Pointers"],
+      "answers": ["useState", "Redux", "Context API"]
+    },
+    {
+      "question": "Which of these are valid React fragment syntaxes?",
+      "options": ["<>...</>", "<Fragment>...</Fragment>", "<div>...</div>", "<banana>...</banana>"],
+      "answers": ["<>...</>", "<Fragment>...</Fragment>"]
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Which of these are advanced React hooks?",
+      "options": ["useReducer", "useMemo", "useCallback", "useBanana"],
+      "answers": ["useReducer", "useMemo", "useCallback"]
+    },
+    {
+      "question": "Which of these are valid React performance optimization techniques?",
+      "options": ["Memoization", "Code splitting", "Lazy loading", "BubbleSort"],
+      "answers": ["Memoization", "Code splitting", "Lazy loading"]
+    },
+    {
+      "question": "Which of these are valid React Router components?",
+      "options": ["BrowserRouter", "Route", "Switch", "BananaRouter"],
+      "answers": ["BrowserRouter", "Route", "Switch"]
+    },
+    {
+      "question": "Which of these are valid React Context API features?",
+      "options": ["Provider", "Consumer", "useContext", "Pointers"],
+      "answers": ["Provider", "Consumer", "useContext"]
+    },
+    {
+      "question": "Which of these are valid React state management libraries?",
+      "options": ["Redux", "MobX", "Recoil", "BananaX"],
+      "answers": ["Redux", "MobX", "Recoil"]
+    },
+    {
+      "question": "Which of these are valid React testing libraries?",
+      "options": ["Jest", "React Testing Library", "Enzyme", "JUnit"],
+      "answers": ["Jest", "React Testing Library", "Enzyme"]
+    },
+    {
+      "question": "Which of these are valid React server-side rendering frameworks?",
+      "options": ["Next.js", "Remix", "Gatsby", "Spring"],
+      "answers": ["Next.js", "Remix", "Gatsby"]
+    },
+    {
+      "question": "Which of these are valid React design patterns?",
+      "options": ["Higher-Order Components", "Render Props", "Custom Hooks", "BubbleSort"],
+      "answers": ["Higher-Order Components", "Render Props", "Custom Hooks"]
+    },
+    {
+      "question": "Which of these are valid React 18 features?",
+      "options": ["Concurrent rendering", "Automatic batching", "Suspense improvements", "Pointers"],
+      "answers": ["Concurrent rendering", "Automatic batching", "Suspense improvements"]
+    },
+    {
+      "question": "Which of these are valid React forms libraries?",
+      "options": ["Formik", "React Hook Form", "Redux Form", "BananaForm"],
+      "answers": ["Formik", "React Hook Form", "Redux Form"]
+    },
+    {
+      "question": "Which of these are valid React animation libraries?",
+      "options": ["Framer Motion", "React Spring", "GSAP", "BananaMotion"],
+      "answers": ["Framer Motion", "React Spring", "GSAP"]
+    },
+    {
+      "question": "Which of these are valid React build tools?",
+      "options": ["Webpack", "Vite", "Parcel", "BananaPack"],
+      "answers": ["Webpack", "Vite", "Parcel"]
+    },
+    {
+      "question": "Which of these are valid React hooks for performance?",
+      "options": ["useMemo", "useCallback", "React.memo", "Pointers"],
+      "answers": ["useMemo", "useCallback", "React.memo"]
+    },
+    {
+      "question": "Which of these are valid React error boundaries features?",
+      "options": ["componentDidCatch", "getDerivedStateFromError", "ErrorBoundary component", "BananaCatch"],
+      "answers": ["componentDidCatch", "getDerivedStateFromError", "ErrorBoundary component"]
+    },
+    {
+      "question": "Which of these are valid React state persistence techniques?",
+      "options": ["LocalStorage", "SessionStorage", "IndexedDB", "Pointers"],
+      "answers": ["LocalStorage", "SessionStorage", "IndexedDB"]
+    },
+    {
+      "question": "Which of these are valid React hooks for side effects?",
+      "options": ["useEffect", "useLayoutEffect", "useInsertionEffect", "BubbleSort"],
+      "answers": ["useEffect", "useLayoutEffect", "useInsertionEffect"]
+    },
+    {
+      "question": "Which of these are valid React component communication methods?",
+      "options": ["Props", "Context", "Redux", "Pointers"],
+      "answers": ["Props", "Context", "Redux"]
+    },
+    {
+      "question": "Which of these are valid React developer tools?",
+      "options": ["React DevTools", "Redux DevTools", "Profiler", "BananaTools"],
+      "answers": ["React DevTools", "Redux DevTools", "Profiler"]
+    },
+    {
+      "question": "Which of these are valid React Suspense use cases?",
+      "options": ["Data fetching", "Lazy loading components", "Code splitting", "Sorting arrays"],
+      "answers": ["Data fetching", "Lazy loading components", "Code splitting"]
+    },
+    {
+      "question": "Which of these are valid React concurrent features?",
+      "options": ["Concurrent rendering", "Transitions", "Suspense", "Pointers"],
+      "answers": ["Concurrent rendering", "Transitions", "Suspense"]
+    }
+  ]
+}

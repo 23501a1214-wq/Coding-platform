@@ -1,0 +1,156 @@
+{
+  "beginner": [
+    {
+      "question": "Which of these are valid C++ data types?",
+      "options": ["int", "float", "string", "banana"],
+      "answers": ["int", "float", "string"]
+    },
+    {
+      "question": "Which symbol is used to end a statement in C++?",
+      "options": [";", ":", ".", ","],
+      "answer": ";"
+    },
+    {
+      "question": "Which of these are C++ access specifiers?",
+      "options": ["public", "private", "protected", "internal"],
+      "answers": ["public", "private", "protected"]
+    },
+    {
+      "question": "Which keyword is used to define a constant in C++?",
+      "options": ["const", "static", "final", "constant"],
+      "answer": "const"
+    },
+    {
+      "question": "Which of these are loops in C++?",
+      "options": ["for", "while", "do-while", "repeat-until"],
+      "answers": ["for", "while", "do-while"]
+    },
+    {
+      "question": "Which operator is used for pointer dereferencing?",
+      "options": ["*", "&", "->", "%"],
+      "answer": "*"
+    },
+    {
+      "question": "Which of these are valid C++ header files?",
+      "options": ["iostream", "vector", "stdio.h", "banana.h"],
+      "answers": ["iostream", "vector", "stdio.h"]
+    },
+    {
+      "question": "Which keyword is used to create objects from a class?",
+      "options": ["new", "class", "object", "create"],
+      "answer": "new"
+    },
+    {
+      "question": "Which of these are relational operators in C++?",
+      "options": ["==", "!=", "<=", "++"],
+      "answers": ["==", "!=", "<="]
+    },
+    {
+      "question": "Which of these is the correct way to declare a pointer?",
+      "options": ["int* p;", "int p*;", "pointer int p;", "int& p;"],
+      "answer": "int* p;"
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Which of these are features of Object-Oriented Programming in C++?",
+      "options": ["Encapsulation", "Inheritance", "Polymorphism", "Compilation"],
+      "answers": ["Encapsulation", "Inheritance", "Polymorphism"]
+    },
+    {
+      "question": "Which of these are valid C++ smart pointers?",
+      "options": ["unique_ptr", "shared_ptr", "weak_ptr", "raw_ptr"],
+      "answers": ["unique_ptr", "shared_ptr", "weak_ptr"]
+    },
+    {
+      "question": "Which of these are STL containers?",
+      "options": ["vector", "map", "set", "arraylist"],
+      "answers": ["vector", "map", "set"]
+    },
+    {
+      "question": "Which keyword is used to handle exceptions in C++?",
+      "options": ["try", "catch", "throw", "except"],
+      "answers": ["try", "catch", "throw"]
+    },
+    {
+      "question": "Which of these are valid C++ cast operators?",
+      "options": ["static_cast", "dynamic_cast", "reinterpret_cast", "convert_cast"],
+      "answers": ["static_cast", "dynamic_cast", "reinterpret_cast"]
+    },
+    {
+      "question": "Which of these are C++ memory management operators?",
+      "options": ["new", "delete", "malloc", "free"],
+      "answers": ["new", "delete"]
+    },
+    {
+      "question": "Which of these are valid ways to pass arguments to functions in C++?",
+      "options": ["Pass by value", "Pass by reference", "Pass by pointer", "Pass by copy"],
+      "answers": ["Pass by value", "Pass by reference", "Pass by pointer"]
+    },
+    {
+      "question": "Which of these are valid C++ templates?",
+      "options": ["Function templates", "Class templates", "Variable templates", "Loop templates"],
+      "answers": ["Function templates", "Class templates", "Variable templates"]
+    },
+    {
+      "question": "Which of these are valid C++11 features?",
+      "options": ["auto keyword", "nullptr", "lambda expressions", "goto"],
+      "answers": ["auto keyword", "nullptr", "lambda expressions"]
+    },
+    {
+      "question": "Which of these are valid C++17 features?",
+      "options": ["std::optional", "std::variant", "std::any", "std::banana"],
+      "answers": ["std::optional", "std::variant", "std::any"]
+    },
+    {
+      "question": "Which of these are valid C++20 features?",
+      "options": ["concepts", "ranges", "coroutines", "macros"],
+      "answers": ["concepts", "ranges", "coroutines"]
+    },
+    {
+      "question": "Which of these are valid C++ operators that can be overloaded?",
+      "options": ["+", "-", "==", "?:", "++"],
+      "answers": ["+", "-", "==", "++"]
+    },
+    {
+      "question": "Which of these are valid C++ access specifiers for inheritance?",
+      "options": ["public", "protected", "private", "internal"],
+      "answers": ["public", "protected", "private"]
+    },
+    {
+      "question": "Which of these are valid C++ threading libraries?",
+      "options": ["std::thread", "std::mutex", "std::async", "std::banana"],
+      "answers": ["std::thread", "std::mutex", "std::async"]
+    },
+    {
+      "question": "Which of these are valid C++ namespaces?",
+      "options": ["std", "boost", "myNamespace", "banana"],
+      "answers": ["std", "boost", "myNamespace"]
+    },
+    {
+      "question": "Which of these are valid C++ polymorphism types?",
+      "options": ["Compile-time", "Run-time", "Static", "Dynamic"],
+      "answers": ["Compile-time", "Run-time"]
+    },
+    {
+      "question": "Which of these are valid C++ design patterns?",
+      "options": ["Singleton", "Factory", "Observer", "BubbleSort"],
+      "answers": ["Singleton", "Factory", "Observer"]
+    },
+    {
+      "question": "Which of these are valid C++ preprocessor directives?",
+      "options": ["#include", "#define", "#ifdef", "#banana"],
+      "answers": ["#include", "#define", "#ifdef"]
+    },
+    {
+      "question": "Which of these are valid C++ file handling classes?",
+      "options": ["ifstream", "ofstream", "fstream", "filehandler"],
+      "answers": ["ifstream", "ofstream", "fstream"]
+    },
+    {
+      "question": "Which of these are valid C++ operators for dynamic memory allocation?",
+      "options": ["new", "delete", "malloc", "free"],
+      "answers": ["new", "delete"]
+    }
+  ]
+}

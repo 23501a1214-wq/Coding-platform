@@ -1,0 +1,156 @@
+{
+  "beginner": [
+    {
+      "question": "Which of these are valid Python data types?",
+      "options": ["int", "float", "str", "banana"],
+      "answers": ["int", "float", "str"]
+    },
+    {
+      "question": "Which symbol is used to comment a line in Python?",
+      "options": ["#", "//", "/*", "--"],
+      "answer": "#"
+    },
+    {
+      "question": "Which of these are Python collection data types?",
+      "options": ["list", "tuple", "set", "dictionary"],
+      "answers": ["list", "tuple", "set", "dictionary"]
+    },
+    {
+      "question": "Which keyword is used to define a function in Python?",
+      "options": ["def", "func", "function", "lambda"],
+      "answer": "def"
+    },
+    {
+      "question": "Which of these are Python loop constructs?",
+      "options": ["for", "while", "do-while", "repeat-until"],
+      "answers": ["for", "while"]
+    },
+    {
+      "question": "Which of these are Python boolean values?",
+      "options": ["True", "False", "Yes", "No"],
+      "answers": ["True", "False"]
+    },
+    {
+      "question": "Which of these are valid Python conditional statements?",
+      "options": ["if", "elif", "else", "switch"],
+      "answers": ["if", "elif", "else"]
+    },
+    {
+      "question": "Which of these are Python built-in functions?",
+      "options": ["len()", "print()", "input()", "banana()"],
+      "answers": ["len()", "print()", "input()"]
+    },
+    {
+      "question": "Which of these are valid Python operators?",
+      "options": ["+", "-", "*", "++"],
+      "answers": ["+", "-", "*"]
+    },
+    {
+      "question": "Which of these is the correct way to import a module?",
+      "options": ["import math", "include math", "using math", "require math"],
+      "answer": "import math"
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Which of these are Python object-oriented programming features?",
+      "options": ["Encapsulation", "Inheritance", "Polymorphism", "Compilation"],
+      "answers": ["Encapsulation", "Inheritance", "Polymorphism"]
+    },
+    {
+      "question": "Which of these are Python decorators?",
+      "options": ["@staticmethod", "@classmethod", "@property", "@banana"],
+      "answers": ["@staticmethod", "@classmethod", "@property"]
+    },
+    {
+      "question": "Which of these are Python exception handling keywords?",
+      "options": ["try", "except", "finally", "throw"],
+      "answers": ["try", "except", "finally"]
+    },
+    {
+      "question": "Which of these are Python data science libraries?",
+      "options": ["NumPy", "Pandas", "Matplotlib", "Excel"],
+      "answers": ["NumPy", "Pandas", "Matplotlib"]
+    },
+    {
+      "question": "Which of these are Python web frameworks?",
+      "options": ["Django", "Flask", "FastAPI", "Spring"],
+      "answers": ["Django", "Flask", "FastAPI"]
+    },
+    {
+      "question": "Which of these are Python testing frameworks?",
+      "options": ["unittest", "pytest", "nose", "JUnit"],
+      "answers": ["unittest", "pytest", "nose"]
+    },
+    {
+      "question": "Which of these are Python concurrency modules?",
+      "options": ["threading", "multiprocessing", "asyncio", "banana"],
+      "answers": ["threading", "multiprocessing", "asyncio"]
+    },
+    {
+      "question": "Which of these are Python serialization modules?",
+      "options": ["pickle", "json", "marshal", "banana"],
+      "answers": ["pickle", "json", "marshal"]
+    },
+    {
+      "question": "Which of these are Python machine learning libraries?",
+      "options": ["scikit-learn", "TensorFlow", "PyTorch", "Excel"],
+      "answers": ["scikit-learn", "TensorFlow", "PyTorch"]
+    },
+    {
+      "question": "Which of these are Python visualization libraries?",
+      "options": ["Matplotlib", "Seaborn", "Plotly", "Excel"],
+      "answers": ["Matplotlib", "Seaborn", "Plotly"]
+    },
+    {
+      "question": "Which of these are Python package managers?",
+      "options": ["pip", "conda", "npm", "yarn"],
+      "answers": ["pip", "conda"]
+    },
+    {
+      "question": "Which of these are Python built-in data structures?",
+      "options": ["list", "tuple", "set", "dict"],
+      "answers": ["list", "tuple", "set", "dict"]
+    },
+    {
+      "question": "Which of these are Python keywords?",
+      "options": ["global", "nonlocal", "yield", "banana"],
+      "answers": ["global", "nonlocal", "yield"]
+    },
+    {
+      "question": "Which of these are Python file handling modes?",
+      "options": ["r", "w", "a", "x"],
+      "answers": ["r", "w", "a", "x"]
+    },
+    {
+      "question": "Which of these are Python functional programming features?",
+      "options": ["map()", "filter()", "reduce()", "lambda"],
+      "answers": ["map()", "filter()", "reduce()", "lambda"]
+    },
+    {
+      "question": "Which of these are Python metaprogramming features?",
+      "options": ["metaclasses", "introspection", "reflection", "banana"],
+      "answers": ["metaclasses", "introspection", "reflection"]
+    },
+    {
+      "question": "Which of these are Python async features?",
+      "options": ["async", "await", "event loop", "goto"],
+      "answers": ["async", "await", "event loop"]
+    },
+    {
+      "question": "Which of these are Python memory management features?",
+      "options": ["Garbage Collection", "Reference Counting", "Manual free()", "Finalization"],
+      "answers": ["Garbage Collection", "Reference Counting", "Finalization"]
+    },
+    {
+      "question": "Which of these are Python design patterns?",
+      "options": ["Singleton", "Factory", "Observer", "BubbleSort"],
+      "answers": ["Singleton", "Factory", "Observer"]
+    },
+    {
+      "question": "Which of these are Python standard library modules?",
+      "options": ["os", "sys", "math", "banana"],
+      "answers": ["os", "sys", "math"]
+    }
+  ]
+}
