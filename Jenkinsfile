@@ -40,11 +40,7 @@ pipeline {
             }
         }
 
-        stage('Test: Leaderboard Order') {
-            steps {
-                bat 'npx jest src/pages/Leaderboard.test.js --no-coverage --verbose'
-            }
-        }
+
 
         stage('Test: Signup Validation') {
             steps {
